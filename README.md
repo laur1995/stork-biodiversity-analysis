@@ -10,9 +10,9 @@ This project explores biodiversity data from GBIF for the species *Ciconia cicon
 - Work with real ecological datasets in R
 
 ## Methods
-- Data cleaning and filtering
+- Data cleaning and filtering in R
 - Temporal analysis (year and month)
-- Spatial visualization using geographic coordinates
+- Spatial visualization using geographic coordinates and map data
 - Data visualization with ggplot2
 
 ## Results
@@ -30,3 +30,8 @@ This project explores biodiversity data from GBIF for the species *Ciconia cicon
 - R
 - tidyverse
 - ggplot2
+- maps
+
+## Output
+Spatial distribution map and temporal trends of observations.
+![Map](outputs/stork_map_romania.png)
